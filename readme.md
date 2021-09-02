@@ -1,15 +1,15 @@
-#### Projeto de Conclusão BootCamp Kotlin Carrefour
+#### Projeto de Conclusão BootCamp Kotlin (Carrefour + Digitalinnovation)
 
 ***Conversor de Moedas***
 
-![](image\img1.JPG)
+![Screenshot](image\img1.JPG)
 
-![](image\img2.JPG)
+![Screenshot](image\img2.JPG)
 
-![](image\img3.JPG)
+![Screenshot](image\img3.JPG)
 
-![](image\img4.JPG)
+![Screenshot](image\img4.JPG)
 
-![](image\img5.JPG)
+![Screenshot](image\img5.JPG)
 
-![](image\img6.JPG)
+![Screenshot](image\img6.JPG)
